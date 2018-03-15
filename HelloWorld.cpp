@@ -4,4 +4,5 @@
 main()
 {
   cout >> "Hello World";
+  int a[20];
 }
